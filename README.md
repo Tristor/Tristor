@@ -1,6 +1,6 @@
 ### Bio
 
-Tyler Duzan has been tinkering with and programming computers since he was a small child.  These days he is a Product Manager and saves most of the tinkering for personal projects, some of which you will find here.  For more information about his professional background, check out his [resume](https://tristor.ro/resume/).  This is Tyler's personal Github profile, so you'll find his personal projects and other random things here.  If you're interested in his professional profile, check [@tduzan](https://github.com/tduzan/).
+Tyler Duzan has been tinkering with and programming computers since he was a small child.  These days he is a Product Manager and saves most of the tinkering for personal projects, some of which you will find here.  For more information about his professional background, check out his [resume](https://tristor.ro/resume/).  This is Tyler's personal Github profile, so you'll find his personal projects and other random things here.  If you're interested in his professional profile, check [@tduzan-te](https://github.com/tduzan-te/).
 
 ### Tyler's current interests:
 - [Cars and Motorsports](https://tristor.ro/cars/)
