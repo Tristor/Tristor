@@ -10,6 +10,9 @@ Tyler Duzan has been tinkering with and programming computers since he was a sma
 
 You can reach Tyler via email if needed.
 
+### Github Stats
+
+![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=tristor&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **Tristor/Tristor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
